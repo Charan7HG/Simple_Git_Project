@@ -10,3 +10,7 @@ Settings validation added.
 Settings feature completed.
 Dashboard feature completed.
 Dashboard feature started.
+Main Protected.
+
+soft head~1.
+
