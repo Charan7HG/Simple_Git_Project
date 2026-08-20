@@ -6,6 +6,7 @@
           System.out.println("Login feature implemented successfully");
           System.out.println("User registration feature");
           System.out.println("Registration successful");
+          System.out.println("Aseuro Dashboard");
     }
 }
                                                          
