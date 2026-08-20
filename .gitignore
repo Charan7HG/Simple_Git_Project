@@ -1,0 +1,4 @@
+target/
+.env
+*.class
+secret.txt
