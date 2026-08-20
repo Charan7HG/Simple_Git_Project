@@ -7,6 +7,7 @@
           System.out.println("User registration feature");
           System.out.println("Registration successful");
           System.out.println("Aseuro Dashboard");
+          System.out.println("Aseuro 1");
     }
 }
                                                          
