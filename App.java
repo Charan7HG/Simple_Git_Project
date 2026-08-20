@@ -8,6 +8,7 @@
           System.out.println("Registration successful");
           System.out.println("Aseuro Dashboard");
           System.out.println("Aseuro 1");
+          System.out.println("new feature added.");
     }
 }
                                                          
